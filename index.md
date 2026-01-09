@@ -12,3 +12,9 @@ to make a change to the file.
 x = "Hello World"
 print (x)
 ```
+
+- [X] Add Headers
+- [X] Add an Image
+- [X] Add a code example
+- [X] Make a task list
+- [ ] Finish school and go home  
